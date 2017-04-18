@@ -3,7 +3,7 @@ package edu.osu.cs362;
 import java.util.*;
 
 /**
- * Created by Kenneth Price on 4/17/2017.
+ * Obtained from http://www.sanfoundry.com/java-program-implement-queue/.
  */
 public class arrayQueue {
     protected int Queue[] ;
